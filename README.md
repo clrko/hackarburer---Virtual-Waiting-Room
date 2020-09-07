@@ -8,6 +8,7 @@
 
 The **Virtual Waiting Room** is a front-end web application developed on June 24th - 26th 2020 during a 48h remote hackathon with **Doctolib, Dataiku** and [Wild Code School](https://www.wildcodeschool.com/en-GB) on the topic of remote healthcare.
 
+[![Watch the video](https://img.youtube.com/vi/J8esGGOShqM/maxresdefault.jpg)](https://www.youtube.com/watch?v=J8esGGOShqM&t=6s)
 
 ## The team
 
